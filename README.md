@@ -1,3 +1,3 @@
 # Katherine Noonan
-body text
-## projects
+Senior Mechanical Engineering Major at Rice University
+## Projects
