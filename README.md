@@ -1,2 +1,2 @@
-# katieenoon.github.io
-Katherine Noonan personal website
+# Katherine Noonan
+## projects
